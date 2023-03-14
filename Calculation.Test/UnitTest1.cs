@@ -47,7 +47,7 @@ namespace Calculation.Test
         [Fact]
         public void FiboInclude13()
         {
-
+            Assert.Contains(13, program.FibonacciNumbers);
         }
     }
 }
