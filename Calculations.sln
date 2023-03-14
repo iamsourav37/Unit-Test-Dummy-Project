@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculation.Test", "Calculation.Test\Calculation.Test.csproj", "{D3EBF6A2-EE41-4EC8-80A3-07F8CB64262A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICall", "APICall\APICall.csproj", "{05D5964E-61A4-47ED-B242-653DD2DC8CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EBF6A2-EE41-4EC8-80A3-07F8CB64262A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EBF6A2-EE41-4EC8-80A3-07F8CB64262A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EBF6A2-EE41-4EC8-80A3-07F8CB64262A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EBF6A2-EE41-4EC8-80A3-07F8CB64262A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D5964E-61A4-47ED-B242-653DD2DC8CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D5964E-61A4-47ED-B242-653DD2DC8CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D5964E-61A4-47ED-B242-653DD2DC8CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D5964E-61A4-47ED-B242-653DD2DC8CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B4F25A-8823-4239-95F6-DB64D33B299C}
+	EndGlobalSection
+EndGlobal
